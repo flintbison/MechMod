@@ -1,3 +1,7 @@
+### Alpha 1.0 Trailer
+
+[![Watch the trailer](memorabilia/mechmod_trailer_screenshot.jpg)](memorabilia/mechmod_trailer.mp4)
+
 ### Alpha Models
 
 <a href="web/gallery/alpha/vf1j.jpg"><img src="web/gallery/alpha/vf1j_small.jpg"></a>
