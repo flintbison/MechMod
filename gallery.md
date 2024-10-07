@@ -1,6 +1,6 @@
 ### Alpha 1.0 Trailer
 
-[![Watch the trailer](memorabilia/mechmod_trailer_screenshot.jpg)](memorabilia/mechmod_trailer.mp4)
+[![Watch the trailer](web/gallery/alpha/mmalpha_trailer_screenshot.jpg)](web/gallery/alpha/mmalpha_trailer.mp4)
 
 ### Alpha Models
 
