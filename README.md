@@ -5,7 +5,7 @@ MechMod was a total conversion mod of Half-Life and was based on Mechs from the 
 * [Image Gallery](gallery.md)
 * [Terms of Service](tos.md)
 
-#### Memorabilia 
+## Memorabilia 
 
 MechMod was mentioned ahead of its alpha release in the March 2004 edition of PC EXTREME (UK) magazine:
 
@@ -15,6 +15,10 @@ MechMod alpha 1.0 was featured in a full-page review and distributed on the cove
 (*Circulation figures for Q1 2005 were 48,326* [[source](https://magazinesfromthepast.fandom.com/wiki/PC_Gamer#Circulation_Figures)])
 
 [![](web/images/pcgamer_logo.jpg)](web/images/mechmod_mag_pcgamer_jan_2005.jpg)
+
+GameSurge.net radio interview with development team 16/11/2004:
+
+[![](web/images/gamesurge.jpg)](web/images/MechMod_Interview_GameSurge_16_Nov_2004.mp3)
 
 IRC on release day:
 
