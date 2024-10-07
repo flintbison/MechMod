@@ -1,6 +1,10 @@
 ### Alpha 1.0 Trailer
 
-[![Watch the trailer](web/gallery/alpha/mmalpha_trailer_screenshot.jpg)](web/gallery/alpha/mmalpha_trailer.mp4)
+[![Watch the trailer](web/gallery/alpha/mmalpha_trailer_screenshot.png)](web/gallery/alpha/mmalpha_trailer.mp4)
+
+### Alpha 1.0 Preview Demonstrating Shaders
+
+[![Watch the trailer](web/gallery/alpha/mmalpha_shaders_preview_screenshot.png)](web/gallery/alpha/mmalpha_shaders_preview.m4v)
 
 ### Alpha Models
 

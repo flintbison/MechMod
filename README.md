@@ -1,4 +1,4 @@
-# ![MechMod affiliate logo](web/images/aff.gif) MechMod
+# MechMod ![MechMod affiliate logo](web/images/aff.gif) 
 
 MechMod was a total conversion mod of Half-Life and was based on Mechs from the Gundam and Macross series. After releasing Alpha version 1.0, further development of the project ceased and it was open-sourced. This repository serves as an archive of the source code of the mod under [Open Source License, version 3.0](http://www.opensource.org/licenses/osl-3.0.php).
 
