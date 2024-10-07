@@ -29,7 +29,7 @@ Voted *best website* and *best player model* in moddb's mods of 2004
 
 ![moddb awards 2004](web/images/moddb_awards_2004.png)
 
-![Mechmod on ModDB](https://www.moddb.com/mods/mechmod)
+[Mechmod on ModDB](https://www.moddb.com/mods/mechmod)
 
 Stats:
 
