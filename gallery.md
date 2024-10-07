@@ -2,7 +2,7 @@
 
 [![Watch the trailer](web/gallery/alpha/mmalpha_trailer_screenshot.png)](web/gallery/alpha/mmalpha_trailer.mp4)
 
-### Alpha 1.0 Preview Demonstrating Shaders
+### Alpha 0.X Preview Demonstrating Shaders
 
 [![Watch the trailer](web/gallery/alpha/mmalpha_shaders_preview_screenshot.png)](web/gallery/alpha/mmalpha_shaders_preview.m4v)
 
