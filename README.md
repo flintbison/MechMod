@@ -28,7 +28,7 @@ Old web forums:
 
 [![](web/images/top_small.jpg)](web/images/forum2.jpg)
 
-Awards:
+## Awards
 
 Voted *best website* and *best player model* in moddb's mods of 2004
 
@@ -36,7 +36,7 @@ Voted *best website* and *best player model* in moddb's mods of 2004
 
 [Mechmod on ModDB](https://www.moddb.com/mods/mechmod)
 
-Stats:
+## Stats
 
 ```text
 * Project Author: Gav Verma
