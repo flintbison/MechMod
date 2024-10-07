@@ -12,6 +12,7 @@ MechMod was mentioned ahead of its alpha release in the March 2004 edition of PC
 [![](web/images/pcextreme_logo.jpg)](web/images/mechmod_mag_pcextreme_mar_2004.jpg)
 
 MechMod alpha 1.0 was featured in a full-page review and distributed on the cover disk of the January 2005 edition of the PC GAMER (UK) magazine:
+(*Circulation figures for Q1 2005 were 48,326* [[source](https://magazinesfromthepast.fandom.com/wiki/PC_Gamer#Circulation_Figures)])
 
 [![](web/images/pcgamer_logo.jpg)](web/images/mechmod_mag_pcgamer_jan_2005.jpg)
 
